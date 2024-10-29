@@ -12,8 +12,8 @@ Authors: \<[Joshua Ha](https://github.com/UserIsBlank)\>
 > * Bootstrap
 ## Contact
 > I would love to hear from you! Whether you have a question, a project idea, or just want to connect, feel free to reach out.
-> * Email: your.email@example.com
-> * LinkedIn: Your LinkedIn Profile
-> * GitHub: Your GitHub Profile
+> * Email: josh4329ln@gmail.com
+> * LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/joshua-ha-805879280/)
+> * GitHub: [Your GitHub Profile](https://github.com/UserIsBlank)
 
 > Thank you for visiting my portfolio website! I hope you enjoy exploring my work.
