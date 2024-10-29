@@ -1,6 +1,7 @@
-# Portfolio
+# Joshua Ha | Portfolio
 Authors: \<[Joshua Ha](https://github.com/UserIsBlank)\>
 > Welcome to my portfolio website! This site showcases my work, skills, and experiences. Here, you can explore my projects, learn more about my background, and get in touch with me.
+> https://userisblank.github.io/portfolio/
 ## About Me
 > I am Joshua Ha, a passionate software developer with a focus on machine learning. I thrive on creating innovative solutions and am always eager to learn new skills and technologies.
 ## Technologies Used
