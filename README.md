@@ -13,7 +13,7 @@ Authors: \<[Joshua Ha](https://github.com/UserIsBlank)\>
 ## Contact
 > I would love to hear from you! Whether you have a question, a project idea, or just want to connect, feel free to reach out.
 > * Email: josh4329ln@gmail.com
-> * LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/joshua-ha-805879280/)
-> * GitHub: [Your GitHub Profile](https://github.com/UserIsBlank)
+> * LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/joshua-ha-805879280/)
+> * GitHub: [GitHub Profile](https://github.com/UserIsBlank)
 
 > Thank you for visiting my portfolio website! I hope you enjoy exploring my work.
